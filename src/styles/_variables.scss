@@ -1,0 +1,26 @@
+ /* Основные настройки и цвета для Vuetify */
+$body-bg-color: #666262; 
+$primary-font: 'Arial', cursive;
+$font-color: #ffffff;
+$input-bg-color: #f9f9f9;
+$button-bg-color: #7f3e39;
+$button-color: black;
+$accent-color: #a6966f;
+$border-color: #ddd;
+$highlight-color: #8B0000;
+
+$background-img2: url('@/assets/fon2.png');
+$background-img3: url('@/assets/fon3.png');
+$button-img2: url('@/assets/snow.png');
+$button-img21: url('@/assets/snowAddEat.png');
+$button-img22: url('@/assets/snowAddFood.png');
+$button-img23: url('@/assets/snowAddMem.png');
+$button-img24: url('@/assets/snowSet.png');
+$button-img3: url('@/assets/pum1.png');
+$button-img32: url('@/assets/pumAddFood.png');
+$button-img33: url('@/assets/pumAddMem.png');
+$button-img34: url('@/assets/pumSet.png');
+
+
+/* Импортируем шрифты */
+@import url('https://fonts.googleapis.com/css?family=Mountains+of+Christmas|Creepster|Arial');
